@@ -1,0 +1,1917 @@
+<?xml version='1.0' encoding='utf-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:georss='http://www.georss.org/georss'><id>tag:blogger.com,1999:blog-1751282069357400475.archive</id><updated>2024-11-01T05:39:51.881-05:00</updated><title type='text'>La Grulla Azul Café - Quito, Ecuador</title><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/archive'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/archive'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/archive'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><entry><id>tag:blogger.com,1999:blog-1751282069357400475.layout</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/><title type='text'>Plantilla: La Grulla Azul Café - Quito, Ecuador</title><content type='text'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'&gt;
+  &lt;head&gt;
+    &lt;link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'/&gt;
+    &lt;link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300' rel='stylesheet' type='text/css'/&gt;
+    &lt;link href='http://fonts.googleapis.com/css?family=Engagement' rel='stylesheet' type='text/css'/&gt;
+    &lt;b:include data='blog' name='all-head-content'/&gt;
+    &lt;title&gt;&lt;data:blog.pageTitle/&gt;&lt;/title&gt;
+    &lt;b:skin&gt;&lt;![CDATA[/*
+-----------------------------------------------
+Blogger Template
+Shopping is My Life
+Design: www.ipietoon.com
+----------------------------------------------- */
+
+body {
+background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LDFXkBCHEet_QQ4l7fQsKWS7Et4YgoZupvl8nicXfXllLxVekqyPMWvA-Afh2EpBdDZLGxP1KJLSC7Am0H9lgU3kEevDI3eSPJDrQuRd1nt-_6j_Y-eM9EE5rnRWbwNozWtTneTX0j8H/s1600/stripebackground.png) fixed;
+color: #4c4b4c;
+font-size: 13px;
+font-family: 'Roboto Slab', serif;
+text-align: left;
+margin: 0 auto 0;
+padding: 0;
+}
+
+#navbar-iframe {
+height: 0px;
+visibility: hidden;
+display: none;
+}
+#wrap {
+background:#ffffff;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  -goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+width: 1020px;
+margin: 30px auto 10px;
+padding: 0px;
+position: relative;
+}
+a, a:visited {
+color: #fac121;
+text-decoration: none;
+}
+a:hover {
+color:#31bbbb;
+text-decoration: none;
+}
+a img {
+border-width: 0;
+}
+/* Header
+-----------------------------------------------*/
+#header-outer{
+width: 100%;
+height:400px;
+color: #932b54;
+margin:10px auto 20px;
+padding: 0;
+overflow: hidden;
+}
+
+#header-wrapper {
+background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitzPxFFe8bt5Wt3vA3IcaXUlDGDtoi3lFqK0nIun1VGUR_LErg0f7LRGXDpuRq8ahFUGDOtO5TLYdS4MWCQQCPs8q2ewpSlkVny2GOxsKr17NHp7zWngDj7B4llm1D9tYmNpIaFEkoAhX5/s1600/shoppingheader.png) no-repeat left center;
+width: 980px;
+height: 400px;
+color: #2e937a;
+margin: 20px auto 0px;
+overflow: hidden;
+}
+#header-inner {
+margin-left: auto;
+margin-right: auto;
+}
+#header {
+margin: auto;
+text-align: left;
+}
+#header h1 {
+margin:5px 5px 0;
+padding:130px 0px 0px 0px;
+font-family: 'Amatic SC', cursive;
+font-size: 72px;
+text-align : center;
+line-height:1.2em;
+text-transform:titlecase;
+letter-spacing:.05em;
+color:#f9adc0;
+}
+
+#header a {
+font-family: 'Amatic SC', cursive;
+text-decoration:none;
+}
+#header a:hover {
+}
+#header .description {
+margin:5px 0;
+padding:0px 20px 0px 0px;
+letter-spacing:.1em;
+text-align : center;
+line-height: 1.4em;
+color:#b6c287;
+font-weight:bold;
+font-family: 'Engagement', cursive;
+font-size:28px;
+}
+#header img {
+margin:auto;
+float:center;
+}
+/* Navigation Menu
+------------------------------------------------------*/
+#NavbarMenu {
+background:#fff url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNkTna-Vn6P6sFoFiQbxNhOJXvQ4VgKMt287f1yv7xO7MzEDXDESjZrNOc5IGTDBs4sWF2lbNbE0EO5DGs5GCrLH8JwyNlN9cjNuxKn12ljBFzo7dueZlzmuPDliZqjUYFBixkklFMpptS/s1600/navibgr.png)no-repeat center;
+width: 980px;
+height:80px;
+font-size: 26px;
+color: #f9adc0;
+font-weight: bold;
+margin: auto;
+padding:0px;
+text-align:center;
+font-family: 'Amatic SC', cursive;
+}
+
+#nav {
+margin: 0 auto 0;
+padding: 0px 20px 0px;
+/* border-top:1px dashed #dcd1ba;
+border-bottom:1px dashed #dcd1ba; */
+text-align:center;
+}
+#nav ul {
+list-style: none;
+margin: 0 auto 0;
+padding: 0;
+text-align:center;
+display:inline;
+}
+#nav li {
+list-style: none;
+margin: 0 auto 0;
+padding: 0;
+display:inline;
+}
+#nav li a, #nav li a:link, #nav li a:visited {
+display:inline-block;
+font-weight: bold;
+text-transform: uppercase;
+margin: 0 auto 0;
+padding:20px;
+color:#f9adc0;
+}
+#nav li a:hover, #nav li a:active {
+color: #28170b;
+margin: 0;
+padding:20px;
+font-weight: bold;
+text-decoration: none;
+}
+
+/*Wrapper
+---------------------------------*/
+#outer-wrapper {
+width: 940px;
+padding:20px;
+margin:0 auto 0;
+line-height: 18px;
+}
+#content-wrapper {
+margin:0 auto 0;
+padding:0px;
+line-height: 18px;
+}
+#main-wrapper {
+float: left;
+width: 500px;
+margin: auto;
+padding: 0px 10px 0px 0px;
+}
+
+#sidebar-wrapper-top {
+width: 310px;
+margin: auto;
+padding: 0;
+float: right;
+font-size: 13px!important;
+line-height: 1.4em;
+text-align:justify;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+
+#sidebar-wrapper-right {
+width: 150px;
+margin: auto;
+padding: 0;
+float: right;
+font-size: 13px!important;
+line-height: 1.5em;
+text-align:justify;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper-left {
+width: 150px;
+margin: auto;
+padding: 0;
+float: right;
+font-size: 13px!important;
+line-height: 1.5em;
+text-align:justify;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper-left h2, #sidebar-wrapper-right h2, #sidebar-wrapper-top h2 {
+background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdYIGjM6W8inXzWRzVcbVIs1UWNGmNGnXWAe2qPO-6eOPz5v8VTnyUSokKoXCI7yluDBF6niW92_bWtXc6AFgdryDTDorgp1aBk_nwOu7UtkXzq66lG9Q2q6auEkRy6jUJwOGGRTQTEum/s1600/onigirikawaii.gif) no-repeat left center;
+color:#31bbbb;
+border-bottom:1px dashed #dcd1ba;
+font-family: 'Engagement', cursive;
+font-size:28px;
+text-transform:titlecase;
+font-weight:normal;
+padding: 25px 0px 5px 45px;
+line-height:1.5em;
+margin: 0px auto 10px;
+text-align:left;
+}
+
+.sidebar, .sidebar2, .sidebar3 {
+margin: 2px 0px;
+padding: 0px;
+}
+.sidebar ul, .sidebar2 ul, .sidebar3 ul {
+list-style:none;
+margin:2px 0px;
+padding: 0px;
+}
+.sidebar li, .sidebar2 li, .sidebar3 li {
+margin: 1px 0px;
+padding: 2px;
+}
+
+.sidebar .widget, .sidebar2 .widget, .sidebar3 .widget {
+margin-bottom:10px;
+padding:5px;
+}
+.main .widget {
+margin: 0px;
+padding: 0px;
+}
+.main .Blog {
+padding: 10px 15px;
+margin: 0px;
+}
+/*Post
+-------------------------------------------------*/
+h2.date-header {
+margin: 1.5em 0 .5em;
+display: none;
+}
+.post {
+margin-bottom:10px;
+padding: 0px;
+overflow:hidden;
+width:600px;
+}
+.post h3 {
+font-family: 'Amatic SC', cursive;
+font-size: 42px;
+font-weight: normal;
+margin: 5px auto;
+line-height:1.6em;
+text-align:center;
+padding-bottom:0px;
+}
+.post h3 a, .post h3 a:visited {
+color: #774e28;
+font-family: 'Amatic SC', cursive;
+font-size: 42px;
+font-weight: normal;
+margin: auto;
+padding: 0;
+}
+.post h3 a:hover {
+color:#31bbbb;
+text-decoration: none;
+}
+.post-body {
+text-align:justify;
+margin: 1em 0 .75em;
+line-height: 1.6em;
+}
+.post-header {
+margin: .1em 0 .75em 0px;
+padding:5px;
+letter-spacing:.05em;
+line-height: 1.4em;
+display:block;
+text-align:center;
+}
+.post-footer a{
+font-size:10px;
+}
+.post-footer {
+font-size:10px;
+font-style:italic;
+margin: .75em 0 .75em 0px;
+padding:5px;
+letter-spacing:.05em;
+line-height: 1.4em;
+display:block;
+border-top:1px dashed #dcd1ba;
+border-bottom:1px dashed #dcd1ba;
+}
+
+.comment-link {
+padding-left: 5px;
+font-size:11px;
+}
+.labels {
+padding-left: 0px;
+font-size:11px;
+}
+.author {
+padding-left: 0px;
+font-size:11px;
+}
+.timestamp {
+padding-left: 5px;
+font-size:11px;
+}
+.post-body blockquote {
+line-height: 1.3em;
+}
+.post-body img {
+  padding: 8px;
+  background: #fff;
+  border: 1px solid #ccc;
+
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  -goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+-moz-border-radius-bottomleft:0px;
+-moz-border-radius-bottomright:0px;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.post blockquote {
+margin: 5px;
+padding: 0px 20px 0 15px;
+border-left: 4px solid #b9dce3;
+}
+.post blockquote p {
+margin: 0;
+padding: 0 0 0px;
+}
+/*Comments
+----------------------------------------------*/
+.comments {
+float: left;
+margin-bottom:10px;
+padding: 0px;
+overflow:hidden;
+width:600px;
+}
+#comments h4 {
+color: #fac121;
+font-size: 16px;
+font-weight: bold;
+margin: 0 0 10px;
+padding:20px 0px 20px 0px;
+}
+#comments-block {
+float: left;
+padding: 0;
+margin: 0;
+}
+#comments-block .comment-author {
+margin: 0em 0;
+font-weight: bold;
+}
+
+#comments-block .comment-footer {
+margin: -.25em 0 2em;
+line-height: 1.4em;
+letter-spacing: .1em;
+border-bottom:1px solid #b9dce3;
+}
+#comments-block .comment-body p {
+margin: 0 0 .75em;
+}
+.deleted-comment {
+font-style: italic;
+color: gray;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+clear:both;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+display:none;
+}
+.main .widget {
+margin: 0 0 1.5em;
+padding: 0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width: 0;
+}
+/*Footer
+---------------------------------------------*/
+#footer {
+width: 920px;
+clear: both;
+margin: 0 auto 0;
+padding-top:0px;
+line-height: 1.6em;
+letter-spacing: .1em;
+text-align: center;
+}
+/*Credit
+---------------------------------------------------*/
+#credit-outer{
+width: 100%;
+margin: 0 auto 20px;
+padding: 0;
+overflow: hidden;
+}
+
+#credit {
+margin:auto;
+padding: 0px;
+width: 980px;
+font-size:12px;
+clear: both;
+font-weight: normal;
+text-align:center;
+
+
+}
+#credit p {
+margin: 0;
+padding:15px 0px 20px;
+}
+#credit a,  .credit a:visited {
+text-decoration: none;
+color:#fff;
+font-size:12px;
+}
+#credit a:hover{
+
+text-decoration: underline;
+}
+
+.avatar-image-container {
+  margin: .2em 0 0;
+}
+
+#PageList1 h2, #Pagelist2 h2{ display:none;}
+]]&gt;&lt;/b:skin&gt;
+&lt;script src='https://d27t6aik270las.cloudfront.net/boomerang.js' type='text/javascript'/&gt;
+&lt;script type='text/javascript'&gt;
+BOOMR.init({beacon_url : &amp;quot;https://eum.vikinguard.com&amp;quot;});
+BOOMR.addVar(&amp;quot;customer&amp;quot;,&amp;quot;53724301544370626561480076960125&amp;quot;);
+BOOMR.addVar(&amp;quot;shop&amp;quot;,&amp;quot;14937321983940065281480076960617&amp;quot;);
+BOOMR.addVar(&amp;quot;version&amp;quot;,&amp;quot;GE1.0&amp;quot;);
+&lt;/script&gt;
+
+
+&lt;!--[if IE]&gt;
+&lt;style type="text/css"&gt;
+
+#menu li {
+	position:static;
+}
+
+&lt;/style&gt;
+&lt;![endif]--&gt;
+
+
+&lt;!--Internet Explorer Trancparency fix--&gt;
+&lt;!--[if lt IE 8]&gt;
+&lt;script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+
+
+
+  &lt;/head&gt;
+
+  &lt;body&gt;
+ &lt;div id='wrap'&gt;
+&lt;div id='header-outer'&gt;
+&lt;div id='header-wrapper'&gt;
+&lt;b:section class='header' id='header' maxwidgets='1' showaddelement='no'&gt;
+  &lt;b:widget id='Header1' locked='true' title='La Grulla Azul Café - Quito, Ecuador (Encabezado)' type='Header' version='1'&gt;
+    &lt;b:widget-settings&gt;
+      &lt;b:widget-setting name='displayUrl'&gt;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9YGSnJ3gzGUCbw4Y6v_lTyT3rU_JBVQaqKa0_0gkjsMuIFWtN_RaEeTgDZ8R3eoQC4Mp6jVkmsWXmb4nEKrCad0iUJvkkpNcPD0rQPtShA77BbV5QbKfWj0WLDfBGs8cbRp7haHC0Cg0M/s1600/blogger_cafeteria_grulla_azul.jpg&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='displayHeight'&gt;363&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='sectionWidth'&gt;972&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='useImage'&gt;true&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='shrinkToFit'&gt;false&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='imagePlacement'&gt;REPLACE&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='displayWidth'&gt;960&lt;/b:widget-setting&gt;
+    &lt;/b:widget-settings&gt;
+    &lt;b:includable id='main'&gt;
+
+  &lt;b:if cond='data:useImage'&gt;
+    &lt;b:if cond='data:imagePlacement == &amp;quot;REPLACE&amp;quot;'&gt;
+      &lt;!--Show just the image, no text--&gt;
+      &lt;div id='header-inner'&gt;
+        &lt;a expr:href='data:blog.homepageUrl' style='display: block'&gt;
+          &lt;img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &amp;quot;_headerimg&amp;quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;b:else/&gt;
+      &lt;!--
+      Show image as background to text. You can't really calculate the width
+      reliably in JS because margins are not taken into account by any of
+      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
+      width if the user is using shrink to fit.
+      This results in a margin-width's worth of pixels being cropped. If the
+      user is not using shrink to fit then we expand the header.
+      --&gt;
+      &lt;div expr:style='&amp;quot;background-image: url(\&amp;quot;&amp;quot; + data:sourceUrl + &amp;quot;\&amp;quot;); &amp;quot;                      + &amp;quot;background-position: &amp;quot;                      + data:backgroundPositionStyleStr + &amp;quot;; &amp;quot;                      + data:widthStyleStr                      + &amp;quot;min-height: &amp;quot; + data:height + &amp;quot;px;&amp;quot;                      + &amp;quot;_height: &amp;quot; + data:height + &amp;quot;px;&amp;quot;                      + &amp;quot;background-repeat: no-repeat; &amp;quot;' id='header-inner'&gt;
+        &lt;div class='titlewrapper' style='background: transparent'&gt;
+          &lt;h1 class='title' style='background: transparent; border-width: 0px'&gt;
+            &lt;b:include name='title'/&gt;
+          &lt;/h1&gt;
+        &lt;/div&gt;
+        &lt;b:include name='description'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+  &lt;b:else/&gt;
+    &lt;!--No header image --&gt;
+    &lt;div id='header-inner'&gt;
+      &lt;div class='titlewrapper'&gt;
+        &lt;h1 class='title'&gt;
+          &lt;b:include name='title'/&gt;
+        &lt;/h1&gt;
+      &lt;/div&gt;
+      &lt;b:include name='description'/&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='description'&gt;
+  &lt;div class='descriptionwrapper'&gt;
+    &lt;p class='description'&gt;&lt;span&gt;&lt;data:description/&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='title'&gt;
+  &lt;b:tag cond='data:blog.url != data:blog.homepageUrl' expr:href='data:blog.homepageUrl' name='a'&gt;
+    &lt;data:title/&gt;
+  &lt;/b:tag&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id='NavbarMenu'&gt;
+&lt;div class='navbarleft'&gt;
+&lt;b:section class='nav' id='nav' showaddelement='no'&gt;
+  &lt;b:widget id='PageList1' locked='false' title='Pages' type='PageList' version='1'&gt;
+    &lt;b:widget-settings&gt;
+      &lt;b:widget-setting name='pageListJson'&gt;&lt;![CDATA[{"link1":{"href":"https://lagrullaazulquito.blogspot.com/p/instagram.html","position":1,"title":"Instagram"},"link0":{"href":"https://lagrullaazulquito.blogspot.com/","position":0,"title":"Página Principal"},"link2":{"href":"https://lagrullaazulquito.blogspot.com/p/contacto_18.html","position":2,"title":"Contacto"}}]]&gt;&lt;/b:widget-setting&gt;
+      &lt;b:widget-setting name='homeTitle'&gt;Página Principal&lt;/b:widget-setting&gt;
+    &lt;/b:widget-settings&gt;
+    &lt;b:includable id='main'&gt;
+  &lt;b:if cond='data:title'&gt;&lt;h2&gt;&lt;data:title/&gt;&lt;/h2&gt;&lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;ul&gt;
+      &lt;b:loop values='data:links' var='link'&gt;
+        &lt;b:if cond='data:link.isCurrentPage'&gt;
+          &lt;li class='selected'&gt;&lt;a expr:href='data:link.href'&gt;&lt;data:link.title/&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;b:else/&gt;
+          &lt;li&gt;&lt;a expr:href='data:link.href'&gt;&lt;data:link.title/&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+    &lt;/ul&gt;
+    &lt;b:include name='quickedit'/&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+ 
+  &lt;div id='outer-wrapper'&gt;&lt;div id='wrap2'&gt;
+    &lt;div id='content-wrapper'&gt;
+      &lt;div id='crosscol-wrapper' style='text-align:center'&gt;
+        &lt;b:section class='crosscol' id='crosscol' showaddelement='no'/&gt;
+      &lt;/div&gt;
+
+
+
+&lt;div id='main-wrapper'&gt;
+        &lt;b:section class='main' id='main' showaddelement='no'&gt;
+          &lt;b:widget id='Blog1' locked='true' title='Entradas del blog' type='Blog' version='1'&gt;
+            &lt;b:widget-settings&gt;
+              &lt;b:widget-setting name='showDateHeader'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.textcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showShareButtons'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='authorLabel'&gt;Creado por&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showCommentLink'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.urlcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='postLocationLabel'&gt;Localización:&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showAuthor'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.linkcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.unittype'&gt;TextAndImage&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.bgcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='timestampLabel'&gt;a las&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='reactionsLabel'/&gt;
+              &lt;b:widget-setting name='showAuthorProfile'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.layout'&gt;1x1&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showLabels'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showLocation'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='postLabelsLabel'&gt;Categorías&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showTimestamp'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='postsPerAd'&gt;1&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showBacklinks'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.bordercolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showInlineAds'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showReactions'&gt;false&lt;/b:widget-setting&gt;
+            &lt;/b:widget-settings&gt;
+            &lt;b:includable id='main' var='top'&gt;
+  &lt;b:if cond='data:mobile == &amp;quot;false&amp;quot;'&gt;
+
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;data:defaultAdStart/&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &lt;b:if cond='data:post.isFirstPost == &amp;quot;false&amp;quot;'&gt;
+            &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-outer&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.dateHeader'&gt;
+          &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-posts&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+        &lt;div class='post-outer'&gt;
+        &lt;b:include data='post' name='post'/&gt;
+        &lt;b:if cond='data:blog.pageType == &amp;quot;static_page&amp;quot;'&gt;
+          &lt;b:if cond='data:post.showThreadedComments'&gt;
+            &lt;b:include data='post' name='threaded_comments'/&gt;
+          &lt;b:else/&gt;
+            &lt;b:include data='post' name='comments'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+          &lt;b:if cond='data:post.showThreadedComments'&gt;
+            &lt;b:include data='post' name='threaded_comments'/&gt;
+          &lt;b:else/&gt;
+            &lt;b:include data='post' name='comments'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+        &lt;/div&gt;
+        &lt;b:if cond='data:post.includeAd'&gt;
+          &lt;b:if cond='data:post.isFirstPost'&gt;
+            &lt;data:defaultAdEnd/&gt;
+          &lt;b:else/&gt;
+            &lt;data:adEnd/&gt;
+          &lt;/b:if&gt;
+          &lt;div class='inline-ad'&gt;
+            &lt;data:adCode/&gt;
+          &lt;/div&gt;
+          &lt;data:adStart/&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+      &lt;b:if cond='data:numPosts != 0'&gt;
+        &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+      &lt;/b:if&gt;
+      &lt;data:adEnd/&gt;
+    &lt;/div&gt;
+
+    &lt;!-- navigation --&gt;
+    &lt;b:include name='nextprev'/&gt;
+
+    &lt;!-- feed links --&gt;
+    &lt;b:include name='feedLinks'/&gt;
+
+    &lt;b:if cond='data:top.showStars'&gt;
+      &lt;script src='//www.google.com/jsapi' type='text/javascript'/&gt;
+      &lt;script type='text/javascript'&gt;
+        google.load(&amp;quot;annotations&amp;quot;, &amp;quot;1&amp;quot;, {&amp;quot;locale&amp;quot;: &amp;quot;&lt;data:top.languageCode/&gt;&amp;quot;});
+        function initialize() {
+          google.annotations.setApplicationId(&lt;data:top.blogspotReviews/&gt;);
+          google.annotations.createAll();
+          google.annotations.fetch();
+        }
+        google.setOnLoadCallback(initialize);
+      &lt;/script&gt;
+    &lt;/b:if&gt;
+
+  &lt;b:else/&gt;
+    &lt;b:include name='mobile-main'/&gt;
+  &lt;/b:if&gt;
+
+  &lt;b:if cond='data:top.showDummy'&gt;
+    &lt;data:top.dummyBootstrap/&gt;
+  &lt;/b:if&gt;
+
+&lt;/b:includable&gt;
+            &lt;b:includable id='backlinkDeleteIcon' var='backlink'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:backlink.adminClass'&gt;
+    &lt;a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'&gt;
+      &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='backlinks' var='post'/&gt;
+            &lt;b:includable id='comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;h4 id='comment-post-message'&gt;
+        &lt;a expr:id='data:widget.instanceId + &amp;quot;_comment-editor-toggle-link&amp;quot;' href='javascript:void(0)'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;h4 id='comment-post-message'&gt;&lt;data:postCommentMsg/&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='commentDeleteIcon' var='comment'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:comment.adminClass'&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div class='goog-toggle-button'&gt;
+        &lt;div class='goog-inline-block comment-action-icon'/&gt;
+      &lt;/div&gt;
+    &lt;b:else/&gt;
+      &lt;a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'&gt;
+        &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+      &lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='comment_count_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-post-url='data:post.url' expr:data-url='data:post.canonicalUrl'&gt;
+    &lt;/span&gt;
+  &lt;b:else/&gt;
+    &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;
+      &lt;data:post.commentLabelFull/&gt;:
+    &lt;/a&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='comment_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;b:include data='post' name='iframe_comments'/&gt;
+  &lt;b:else/&gt;
+    &lt;b:if cond='data:post.showThreadedComments'&gt;
+      &lt;b:include data='post' name='threaded_comments'/&gt;
+    &lt;b:else/&gt;
+      &lt;b:include data='post' name='comments'/&gt;
+    &lt;/b:if&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;b:if cond='data:post.allowComments'&gt;
+      &lt;h4&gt;
+        &lt;b:if cond='data:post.numComments == 1'&gt;
+          1 &lt;data:commentLabel/&gt;:
+        &lt;b:else/&gt;
+          &lt;data:post.numComments/&gt; &lt;data:commentLabelPlural/&gt;:
+        &lt;/b:if&gt;
+      &lt;/h4&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;b:if cond='data:post.hasOlderLinks'&gt;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;&lt;data:post.oldestLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;&lt;data:post.olderLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+          &lt;/b:if&gt;
+
+          &lt;data:post.commentRangeText/&gt;
+
+          &lt;b:if cond='data:post.hasNewerLinks'&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;&lt;data:post.newerLinkText/&gt;&lt;/a&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;&lt;data:post.newestLinkText/&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;div expr:id='data:widget.instanceId + &amp;quot;_comments-block-wrapper&amp;quot;'&gt;
+        &lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;
+          &lt;b:loop values='data:post.comments' var='comment'&gt;
+            &lt;dt expr:class='&amp;quot;comment-author &amp;quot; + data:comment.authorClass' expr:id='data:comment.anchorName'&gt;
+              &lt;b:if cond='data:comment.favicon'&gt;
+                &lt;img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/&gt;
+              &lt;/b:if&gt;
+              &lt;a expr:name='data:comment.anchorName'/&gt;
+              &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;
+                &lt;data:comment.authorAvatarImage/&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:comment.authorUrl'&gt;
+                &lt;a expr:href='data:comment.authorUrl' rel='nofollow'&gt;&lt;data:comment.author/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:comment.author/&gt;
+              &lt;/b:if&gt;
+              &lt;data:commentPostedByMsg/&gt;
+            &lt;/dt&gt;
+            &lt;dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'&gt;
+              &lt;b:if cond='data:comment.isDeleted'&gt;
+                &lt;span class='deleted-comment'&gt;&lt;data:comment.body/&gt;&lt;/span&gt;
+              &lt;b:else/&gt;
+                &lt;p&gt;
+                  &lt;data:comment.body/&gt;
+                &lt;/p&gt;
+              &lt;/b:if&gt;
+            &lt;/dd&gt;
+            &lt;dd class='comment-footer'&gt;
+              &lt;span class='comment-timestamp'&gt;
+                &lt;a expr:href='data:comment.url' title='comment permalink'&gt;
+                  &lt;data:comment.timestamp/&gt;
+                &lt;/a&gt;
+                &lt;b:include data='comment' name='commentDeleteIcon'/&gt;
+              &lt;/span&gt;
+            &lt;/dd&gt;
+          &lt;/b:loop&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;
+            &lt;data:post.oldestLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;
+            &lt;data:post.olderLinkText/&gt;
+          &lt;/a&gt;
+          &amp;#160;
+          &lt;data:post.commentRangeText/&gt;
+          &amp;#160;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;
+            &lt;data:post.newerLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;
+            &lt;data:post.newestLinkText/&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;p class='comment-footer'&gt;
+        &lt;b:if cond='data:post.embedCommentForm'&gt;
+          &lt;b:if cond='data:post.allowNewComments'&gt;
+            &lt;b:include data='post' name='comment-form'/&gt;
+          &lt;b:else/&gt;
+            &lt;data:post.noNewCommentsText/&gt;
+          &lt;/b:if&gt;
+        &lt;b:else/&gt;
+          &lt;b:if cond='data:post.allowComments'&gt;
+            &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+
+      &lt;/p&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+       &lt;b:if cond='data:post.showBacklinks'&gt;
+         &lt;b:include data='post' name='backlinks'/&gt;
+       &lt;/b:if&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='feedLinks'&gt;
+  &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt; &lt;!-- Blog feed links --&gt;
+    &lt;b:if cond='data:feedLinks'&gt;
+      &lt;div class='blog-feeds'&gt;
+        &lt;b:include data='feedLinks' name='feedLinksBody'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:else/&gt; &lt;!--Post feed links --&gt;
+    &lt;div class='post-feeds'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.allowComments'&gt;
+          &lt;b:if cond='data:post.feedLinks'&gt;
+            &lt;b:include data='post.feedLinks' name='feedLinksBody'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='feedLinksBody' var='links'&gt;
+  &lt;div class='feed-links'&gt;
+  &lt;data:feedLinksMsg/&gt;
+  &lt;b:loop values='data:links' var='f'&gt;
+     &lt;a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'&gt;&lt;data:f.name/&gt; (&lt;data:f.feedType/&gt;)&lt;/a&gt;
+  &lt;/b:loop&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='iframe_comments' var='post'&gt;
+
+  &lt;b:if cond='data:post.allowIframeComments'&gt;
+    &lt;script expr:src='data:post.iframeCommentSrc' type='text/javascript'/&gt;
+    &lt;div class='cmt_iframe_holder' expr:data-href='data:post.canonicalUrl' expr:data-viewtype='data:post.viewType'/&gt;
+
+    &lt;b:if cond='data:post.embedCommentForm == &amp;quot;false&amp;quot;'&gt;
+      &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-index-post' var='post'&gt;
+  &lt;div class='mobile-date-outer date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;div class='date-header'&gt;
+        &lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-post-outer'&gt;
+      &lt;a expr:href='data:post.url'&gt;
+        &lt;h3 class='mobile-index-title entry-title' itemprop='name'&gt;
+          &lt;data:post.title/&gt;
+        &lt;/h3&gt;
+
+        &lt;div class='mobile-index-arrow'&gt;&amp;amp;rsaquo;&lt;/div&gt;
+
+        &lt;div class='mobile-index-contents'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;div class='mobile-index-thumbnail'&gt;
+              &lt;div class='Image'&gt;
+                &lt;img expr:src='data:post.thumbnailUrl'/&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-body'&gt;
+            &lt;b:if cond='data:post.snippet'&gt;&lt;data:post.snippet/&gt;&lt;/b:if&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div style='clear: both;'/&gt;
+      &lt;/a&gt;
+
+      &lt;div class='mobile-index-comment'&gt;
+        &lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+          &lt;b:if cond='data:post.allowComments'&gt;
+            &lt;b:if cond='data:post.numComments != 0'&gt;
+              &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;b:if cond='data:post.numComments == 1'&gt;1 &lt;data:top.commentLabel/&gt;&lt;b:else/&gt;&lt;data:post.numComments/&gt; &lt;data:top.commentLabelPlural/&gt;&lt;/b:if&gt;&lt;/a&gt;
+            &lt;/b:if&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-main' var='top'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;b:else/&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+   &lt;b:include name='mobile-nextprev'/&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&amp;amp;lsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&amp;amp;rsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class='mobile-desktop-link'&gt;
+      &lt;a class='home-link' expr:href='data:desktopLinkUrl'&gt;&lt;data:desktopLinkMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-post' var='post'&gt;
+  &lt;div class='date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='date-posts'&gt;
+      &lt;div class='post-outer'&gt;
+
+        &lt;div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+          &lt;a expr:name='data:post.id'/&gt;
+          &lt;b:if cond='data:post.title'&gt;
+            &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+              &lt;b:if cond='data:post.link'&gt;
+                &lt;a expr:href='data:post.link'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;b:if cond='data:post.url'&gt;
+                  &lt;b:if cond='data:blog.url != data:post.url'&gt;
+                    &lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+                  &lt;b:else/&gt;
+                    &lt;data:post.title/&gt;
+                  &lt;/b:if&gt;
+                &lt;b:else/&gt;
+                  &lt;data:post.title/&gt;
+                &lt;/b:if&gt;
+              &lt;/b:if&gt;
+            &lt;/h3&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-header'&gt;
+            &lt;div class='post-header-line-1'/&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' itemprop='articleBody'&gt;
+            &lt;data:post.body/&gt;
+            &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-footer'&gt;
+            &lt;div class='post-footer-line post-footer-line-1'&gt;
+&lt;span class='author vcard'&gt;
+        &lt;b:if cond='data:top.showAuthor'&gt;
+          &lt;data:top.authorLabel/&gt;
+          &lt;span class='fn'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+&lt;span class='post-author vcard'&gt;
+                &lt;b:if cond='data:top.showAuthor'&gt;
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt;
+                    &lt;span class='fn'&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' itemprop='author' rel='author' title='author profile'&gt;
+                        &lt;data:post.author/&gt;
+                      &lt;/a&gt;
+                    &lt;/span&gt;
+                  &lt;b:else/&gt;
+                    &lt;span class='fn'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-timestamp'&gt;
+                &lt;b:if cond='data:top.showTimestamp'&gt;
+                  &lt;data:top.timestampLabel/&gt;
+                  &lt;b:if cond='data:post.url'&gt;
+                    &lt;a class='timestamp-link' expr:href='data:post.url' itemprop='url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-comment-link'&gt;
+                &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+                  &lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+                    &lt;b:if cond='data:post.allowComments'&gt;
+                      &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;b:if cond='data:post.numComments == 1'&gt;1 &lt;data:top.commentLabel/&gt;&lt;b:else/&gt;&lt;data:post.numComments/&gt; &lt;data:top.commentLabelPlural/&gt;&lt;/b:if&gt;&lt;/a&gt;
+                    &lt;/b:if&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+            &lt;/div&gt;
+
+            &lt;div class='post-footer-line post-footer-line-2'&gt;
+              &lt;b:if cond='data:top.showMobileShare'&gt;
+                &lt;div class='mobile-link-button goog-inline-block' id='mobile-share-button'&gt;
+                  &lt;a href='javascript:void(0);'&gt;&lt;data:shareMsg/&gt;&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:top.showDummy'&gt;
+                &lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;
+              &lt;/b:if&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;b:if cond='data:blog.pageType == &amp;quot;static_page&amp;quot;'&gt;
+          &lt;b:if cond='data:post.showThreadedComments'&gt;
+            &lt;b:include data='post' name='threaded_comments'/&gt;
+          &lt;b:else/&gt;
+            &lt;b:include data='post' name='comments'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+          &lt;b:if cond='data:post.showThreadedComments'&gt;
+            &lt;b:include data='post' name='threaded_comments'/&gt;
+          &lt;b:else/&gt;
+            &lt;b:include data='post' name='comments'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;span id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&lt;data:newerPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;span id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&lt;data:olderPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+
+    &lt;b:if cond='data:mobileLinkUrl'&gt;
+      &lt;div class='blog-mobile-link'&gt;
+        &lt;a expr:href='data:mobileLinkUrl'&gt;&lt;data:mobileLinkMsg/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='post' var='post'&gt;
+  &lt;div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+    &lt;a expr:name='data:post.id'/&gt;
+    &lt;b:if cond='data:post.title'&gt;
+      &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+      &lt;b:if cond='data:post.link'&gt;
+        &lt;a expr:href='data:post.link'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+      &lt;b:else/&gt;
+        &lt;b:if cond='data:post.url'&gt;
+          &lt;b:if cond='data:blog.url != data:post.url'&gt;
+            &lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+          &lt;b:else/&gt;
+            &lt;data:post.title/&gt;
+          &lt;/b:if&gt;
+        &lt;b:else/&gt;
+          &lt;data:post.title/&gt;
+        &lt;/b:if&gt;
+      &lt;/b:if&gt;
+      &lt;/h3&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' itemprop='articleBody'&gt;
+      &lt;data:post.body/&gt;
+      &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+
+    &lt;b:if cond='data:post.hasJumpLink'&gt;
+      &lt;div class='jump-link'&gt;
+        &lt;a expr:href='data:post.url + &amp;quot;#more&amp;quot;' expr:title='data:post.title'&gt;&lt;data:post.jumpText/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-footer'&gt;
+    &lt;div class='post-footer-line post-footer-line-1'&gt;
+&lt;b:if cond='data:top.showAuthor'&gt;
+          &lt;data:top.authorLabel/&gt;
+          &lt;span class='fn'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+        &lt;/b:if&gt;
+&lt;span class='post-timestamp'&gt;
+        &lt;b:if cond='data:top.showTimestamp'&gt;
+          &lt;data:top.timestampLabel/&gt;
+        &lt;b:if cond='data:post.url'&gt;
+          &lt;a class='timestamp-link' expr:href='data:post.url' itemprop='url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt; &lt;span class='post-comment-link'&gt;
+        &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+          &lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+            &lt;b:if cond='data:post.allowComments'&gt;
+              &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;b:if cond='data:post.numComments == 1'&gt;1 &lt;data:top.commentLabel/&gt;&lt;b:else/&gt;&lt;data:post.numComments/&gt; &lt;data:top.commentLabelPlural/&gt;&lt;/b:if&gt;&lt;/a&gt;
+            &lt;/b:if&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt; &lt;span class='post-icons'&gt;
+        &lt;!-- email post links --&gt;
+        &lt;b:if cond='data:post.emailPostUrl'&gt;
+          &lt;span class='item-action'&gt;
+          &lt;a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'&gt;
+              &lt;img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/&gt;
+          &lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/b:if&gt;
+
+        &lt;!-- quickedit pencil --&gt;
+        &lt;b:include data='post' name='postQuickEdit'/&gt;
+      &lt;/span&gt; &lt;div class='post-share-buttons goog-inline-block'&gt;
+        &lt;b:if cond='data:post.sharePostUrl'&gt;
+          &lt;b:include data='post' name='shareButtons'/&gt;
+        &lt;/b:if&gt;
+      &lt;/div&gt; &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-2'&gt;&lt;span class='post-labels'&gt;
+        &lt;b:if cond='data:post.labels'&gt;
+          &lt;data:postLabelsLabel/&gt;
+          &lt;b:loop values='data:post.labels' var='label'&gt;
+            &lt;a expr:href='data:label.url' rel='tag'&gt;&lt;data:label.name/&gt;&lt;/a&gt;&lt;b:if cond='data:label.isLast != &amp;quot;true&amp;quot;'&gt;,&lt;/b:if&gt;
+          &lt;/b:loop&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt; &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-3'/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='postQuickEdit' var='post'&gt;
+  &lt;b:if cond='data:post.editUrl'&gt;
+    &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:post.adminClass'&gt;
+      &lt;a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'&gt;
+        &lt;img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='shareButtons' var='post'&gt;
+  &lt;b:if cond='data:top.showEmailButton'&gt;&lt;a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=email&amp;quot;' expr:title='data:top.emailThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.emailThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showBlogThisButton'&gt;&lt;a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=blog&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=270,width=475\&amp;quot;); return false;&amp;quot;' expr:title='data:top.blogThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.blogThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showTwitterButton'&gt;&lt;a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=twitter&amp;quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToTwitterMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showFacebookButton'&gt;&lt;a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=facebook&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=430,width=640\&amp;quot;); return false;&amp;quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToFacebookMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showOrkutButton'&gt;&lt;a class='goog-inline-block share-button sb-orkut' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=orkut&amp;quot;' expr:title='data:top.shareToOrkutMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToOrkutMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showDummy'&gt;&lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;&lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='status-message'&gt;
+  &lt;b:if cond='data:navMessage'&gt;
+  &lt;div class='status-msg-wrap'&gt;
+    &lt;div class='status-msg-body'&gt;
+      &lt;data:navMessage/&gt;
+    &lt;/div&gt;
+    &lt;div class='status-msg-border'&gt;
+      &lt;div class='status-msg-bg'&gt;
+        &lt;div class='status-msg-hidden'&gt;&lt;data:navMessage/&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style='clear: both;'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='threaded-comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='threaded_comment_js' var='post'&gt;
+  &lt;script async='async' expr:src='data:post.commentSrc' type='text/javascript'/&gt;
+
+  &lt;script type='text/javascript'&gt;
+    (function() {
+      var items = &lt;data:post.commentJso/&gt;;
+      var msgs = &lt;data:post.commentMsgs/&gt;;
+      var config = &lt;data:post.commentConfig/&gt;;
+
+// &lt;![CDATA[
+      var cursor = null;
+      if (items &amp;&amp; items.length &gt; 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '&lt;span class="deleted-comment"&gt;' + entry.content.$t + '&lt;/span&gt;';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data &amp;&amp; data.feed &amp;&amp; data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author &amp;&amp; entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid &amp;&amp; pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&amp;v=2&amp;orderby=published&amp;reverse=false&amp;max-results=50';
+          if (cursor) {
+            url += '&amp;published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length &lt; 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&amp;callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              &amp;&amp; comment.author.name == config.authorName
+              &amp;&amp; comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&amp;postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox &amp;&amp; (commentId !== replyParent)) {
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&amp;parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog &amp;&amp; window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog &amp;&amp; window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]&gt;
+  &lt;/script&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='threaded_comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;h4&gt;
+      &lt;b:if cond='data:post.numComments == 1'&gt;
+        1 &lt;data:commentLabel/&gt;:
+      &lt;b:else/&gt;
+        &lt;data:post.numComments/&gt; &lt;data:commentLabelPlural/&gt;:
+      &lt;/b:if&gt;
+    &lt;/h4&gt;
+
+    &lt;div class='comments-content'&gt;
+      &lt;b:if cond='data:post.embedCommentForm'&gt;
+        &lt;b:include data='post' name='threaded_comment_js'/&gt;
+      &lt;/b:if&gt;
+      &lt;div id='comment-holder'&gt;
+         &lt;data:post.commentHtml/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class='comment-footer'&gt;
+      &lt;b:if cond='data:post.allowNewComments'&gt;
+        &lt;b:include data='post' name='threaded-comment-form'/&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.noNewCommentsText/&gt;
+      &lt;/b:if&gt;
+    &lt;/p&gt;
+
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+       &lt;b:if cond='data:post.showBacklinks'&gt;
+         &lt;b:include data='post' name='backlinks'/&gt;
+       &lt;/b:if&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+          &lt;/b:widget&gt;
+        &lt;/b:section&gt;
+      &lt;/div&gt;
+
+&lt;!-- Sidebar --&gt;
+&lt;div id='sidebar-wrapper-top'&gt;  
+        &lt;b:section class='sidebar3' id='sidebar3' preferred='yes'&gt;
+            &lt;b:widget id='HTML3' locked='false' title='Radio' type='HTML'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='content'&gt;&lt;![CDATA[&lt;iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1ZnwKTJDVo2P1leYFBnhUr?utm_source=generator" width="300" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;]]&gt;&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;!-- only display title if it's non-empty --&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2 class='title'&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;data:content/&gt;
+  &lt;/div&gt;
+
+  &lt;b:include name='quickedit'/&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='Text1' locked='false' title='Konnichiwa minna' type='Text'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='content'&gt;&lt;![CDATA[&lt;span =""  style="font-family:&amp;quot;;"&gt;Cafetería La Grulla Azul es una de las mejores cafeterías de eventos de anime en Quito - Ecuador. Gastronomía japonesa de tus animes favoritos y comida típica e Japón. Aceptamos pedidos para cumpleaños, regalos especiales y eventos por vía e-mail o mediante nuestras redes sociales o formulario de nuestro blog.&lt;/span&gt;]]&gt;&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;!-- only display title if it's non-empty --&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2 class='title'&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;data:content/&gt;
+  &lt;/div&gt;
+
+  &lt;b:include name='quickedit'/&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='Translate1' locked='false' title='Idiomas.' type='Translate'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='displayMode'&gt;VERTICAL&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2 class='title'&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div id='google_translate_element'/&gt;
+  &lt;script&gt;
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: &amp;#39;&lt;data:pageLanguage/&gt;&amp;#39;,
+        autoDisplay: &amp;#39;true&amp;#39;,
+        layout: google.translate.TranslateElement.InlineLayout.&lt;data:layout/&gt;
+      }, &amp;#39;google_translate_element&amp;#39;);
+    }
+  &lt;/script&gt;
+  &lt;script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'/&gt;
+  &lt;b:include name='quickedit'/&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='Stats1' locked='false' title='Vistas:' type='Stats'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='showGraphicalCounter'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showAnimatedCounter'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showSparkline'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='sparklineStyle'&gt;BLACK_TRANSPARENT&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='timeRange'&gt;ALL_TIME&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;&lt;h2&gt;&lt;data:title/&gt;&lt;/h2&gt;&lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;!-- Content is going to be visible when data will be fetched from server. --&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_content&amp;quot;' style='display: none;'&gt;
+      &lt;!-- Counter and image will be injected later via AJAX call. --&gt;
+      &lt;b:if cond='data:showSparkline'&gt;
+        &lt;script src='https://www.gstatic.com/charts/loader.js' type='text/javascript'/&gt;
+        &lt;span expr:id='data:widget.instanceId + &amp;quot;_sparklinespan&amp;quot;' style='display:inline-block; width:75px; height:30px'/&gt;
+      &lt;/b:if&gt;
+      &lt;span expr:class='&amp;quot;counter-wrapper &amp;quot; + (data:showGraphicalCounter ? &amp;quot;graph-counter-wrapper&amp;quot; : &amp;quot;text-counter-wrapper&amp;quot;)' expr:id='data:widget.instanceId + &amp;quot;_totalCount&amp;quot;'&gt;
+      &lt;/span&gt;
+      &lt;b:include name='quickedit'/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='BlogArchive1' locked='false' title='Artículos del Blog:' type='BlogArchive' version='1'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='showStyle'&gt;HIERARCHY&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='yearPattern'&gt;yyyy&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showWeekEnd'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='monthPattern'&gt;MMMM&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='dayPattern'&gt;MMM dd&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='weekPattern'&gt;MM/dd&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='chronological'&gt;false&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='showPosts'&gt;true&lt;/b:widget-setting&gt;
+                &lt;b:widget-setting name='frequency'&gt;MONTHLY&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;b:if cond='data:title'&gt;
+    &lt;h2&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+  &lt;div id='ArchiveList'&gt;
+  &lt;div expr:id='data:widget.instanceId + &amp;quot;_ArchiveList&amp;quot;'&gt;
+    &lt;b:if cond='data:style == &amp;quot;HIERARCHY&amp;quot;'&gt;
+     &lt;b:include data='data' name='interval'/&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:style == &amp;quot;FLAT&amp;quot;'&gt;
+      &lt;b:include data='data' name='flat'/&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:style == &amp;quot;MENU&amp;quot;'&gt;
+      &lt;b:include data='data' name='menu'/&gt;
+    &lt;/b:if&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;b:include name='quickedit'/&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='flat' var='data'&gt;
+  &lt;ul class='flat'&gt;
+    &lt;b:loop values='data:data' var='i'&gt;
+      &lt;li class='archivedate'&gt;
+        &lt;a expr:href='data:i.url'&gt;&lt;data:i.name/&gt;&lt;/a&gt; (&lt;data:i.post-count/&gt;)
+      &lt;/li&gt;
+    &lt;/b:loop&gt;
+  &lt;/ul&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='interval' var='intervalData'&gt;
+  &lt;b:loop values='data:intervalData' var='i'&gt;
+      &lt;ul class='hierarchy'&gt;
+        &lt;li expr:class='&amp;quot;archivedate &amp;quot; + data:i.expclass'&gt;
+          &lt;b:include data='i' name='toggle'/&gt;
+          &lt;a class='post-count-link' expr:href='data:i.url'&gt;&lt;data:i.name/&gt;&lt;/a&gt;
+            &lt;span class='post-count' dir='ltr'&gt;(&lt;data:i.post-count/&gt;)&lt;/span&gt;
+          &lt;b:if cond='data:i.data'&gt;
+            &lt;b:include data='i.data' name='interval'/&gt;
+          &lt;/b:if&gt;
+          &lt;b:if cond='data:i.posts'&gt;
+            &lt;b:include data='i.posts' name='posts'/&gt;
+          &lt;/b:if&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+  &lt;/b:loop&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='menu' var='data'&gt;
+  &lt;select expr:id='data:widget.instanceId + &amp;quot;_ArchiveMenu&amp;quot;'&gt;
+    &lt;option value=''&gt;&lt;data:title/&gt;&lt;/option&gt;
+    &lt;b:loop values='data:data' var='i'&gt;
+      &lt;option expr:value='data:i.url'&gt;&lt;data:i.name/&gt; (&lt;data:i.post-count/&gt;)&lt;/option&gt;
+    &lt;/b:loop&gt;
+  &lt;/select&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='posts' var='posts'&gt;
+  &lt;ul class='posts'&gt;
+    &lt;b:loop values='data:posts' var='i'&gt;
+      &lt;li&gt;&lt;a expr:href='data:i.url'&gt;&lt;data:i.title/&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/b:loop&gt;
+  &lt;/ul&gt;
+&lt;/b:includable&gt;
+              &lt;b:includable id='toggle' var='interval'&gt;
+  &lt;b:if cond='data:interval.toggleId'&gt;
+  &lt;b:if cond='data:interval.expclass == &amp;quot;expanded&amp;quot;'&gt;
+    &lt;a class='toggle' href='javascript:void(0)'&gt;
+      &lt;span class='zippy toggle-open'&gt;&amp;#9660;&amp;#160;&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;b:else/&gt;
+    &lt;a class='toggle' href='javascript:void(0)'&gt;
+      &lt;span class='zippy'&gt;
+        &lt;b:if cond='data:blog.languageDirection == &amp;quot;rtl&amp;quot;'&gt;
+          &amp;#9668;&amp;#160;
+        &lt;b:else/&gt;
+          &amp;#9658;&amp;#160;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/b:if&gt;
+ &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='HTML2' locked='false' title='' type='HTML'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='content'&gt;&lt;![CDATA[&lt;div id="fb-root"&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=917108098402986";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class="fb-page" data-href="https://www.facebook.com/lagrullaazulcafe/" data-tabs="timeline" data-width="286" data-height="340" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"&gt;&lt;blockquote cite="https://www.facebook.com/cafeterialagrullaazul/" class="fb-xfbml-parse-ignore"&gt;&lt;a href="https://www.facebook.com/cafeterialagrullaazul/"&gt;Cafetería &amp;quot;La Grulla Azúl&amp;quot; Blue 鶴&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;]]&gt;&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;!-- only display title if it's non-empty --&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2 class='title'&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;data:content/&gt;
+  &lt;/div&gt;
+
+  &lt;b:include name='quickedit'/&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='HTML1' locked='false' title='' type='HTML'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='content'&gt;&lt;![CDATA[&lt;script src="https://apis.google.com/js/platform.js" async defer&gt;
+  {lang: 'es-319'}
+&lt;/script&gt;
+
+&lt;div class="g-page" data-width="286" data-href="//plus.google.com/u/0/107384351361561463633" data-rel="publisher"&gt;&lt;/div&gt;]]&gt;&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+  &lt;!-- only display title if it's non-empty --&gt;
+  &lt;b:if cond='data:title != &amp;quot;&amp;quot;'&gt;
+    &lt;h2 class='title'&gt;&lt;data:title/&gt;&lt;/h2&gt;
+  &lt;/b:if&gt;
+  &lt;div class='widget-content'&gt;
+    &lt;data:content/&gt;
+  &lt;/div&gt;
+
+  &lt;b:include name='quickedit'/&gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='Navbar1' locked='true' title='NavBar ' type='Navbar' version='1'&gt;
+              &lt;b:includable id='main'&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener(&amp;#39;load&amp;#39;,
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent(&amp;#39;onload&amp;#39;, function(){ object[attribute] = val; });
+      }
+    }
+  &amp;lt;/script&amp;gt;
+&amp;lt;div id=&amp;quot;navbar-iframe-container&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;https://apis.google.com/js/platform.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+      gapi.load(&amp;quot;gapi.iframes:gapi.iframes.style.bubble&amp;quot;, function() {
+        if (gapi.iframes &amp;amp;&amp;amp; gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: &amp;#39;https://www.blogger.com/navbar.g?targetBlogID\x3d1751282069357400475\x26blogName\x3dLa+Grulla+Azul+Caf%C3%A9+-+Quito,+Ecuador\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://lagrullaazulcafe.blogspot.com/search\x26blogLocale\x3des_419\x26v\x3d2\x26homepageUrl\x3dhttps://lagrullaazulcafe.blogspot.com/\x26vt\x3d6127398791634628745&amp;#39;,
+              where: document.getElementById(&amp;quot;navbar-iframe-container&amp;quot;),
+              id: &amp;quot;navbar-iframe&amp;quot;,
+              messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+              messageHandlers: {
+                &amp;#39;blogger-ping&amp;#39;: function() {}
+              }
+          });
+        }
+      });
+    &amp;lt;/script&amp;gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
+(function() {
+var script = document.createElement(&amp;#39;script&amp;#39;);
+script.type = &amp;#39;text/javascript&amp;#39;;
+script.src = &amp;#39;//pagead2.googlesyndication.com/pagead/js/google_top_exp.js&amp;#39;;
+var head = document.getElementsByTagName(&amp;#39;head&amp;#39;)[0];
+if (head) {
+head.appendChild(script);
+}})();
+&amp;lt;/script&amp;gt;
+&lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+            &lt;b:widget id='Attribution1' locked='true' title='' type='Attribution'&gt;
+              &lt;b:widget-settings&gt;
+                &lt;b:widget-setting name='copyright'&gt;Desarrollado por Panda en Redes&lt;/b:widget-setting&gt;
+              &lt;/b:widget-settings&gt;
+              &lt;b:includable id='main'&gt;
+    &lt;div class='widget-content' style='text-align: center;'&gt;
+      &lt;b:if cond='data:attribution != &amp;quot;&amp;quot;'&gt;
+       &lt;data:attribution/&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+    &lt;b:include name='quickedit'/&gt;
+  &lt;/b:includable&gt;
+            &lt;/b:widget&gt;
+          &lt;/b:section&gt;
+      &lt;/div&gt;
+
+
+      &lt;!-- spacer for skins that want sidebar and main to be the same height--&gt;
+ &lt;div class='clear'&gt;&amp;#160;&lt;/div&gt;     
+
+    &lt;/div&gt; &lt;!-- end content-wrapper --&gt;  
+  &lt;/div&gt;&lt;/div&gt; &lt;!-- end outer-wrapper --&gt;
+ &lt;/div&gt;
+&lt;div id='credit-outer'&gt;
+&lt;div id='credit'&gt;
+&lt;!-- AddThis Follow BEGIN --&gt;
+&lt;ul class='addthis_toolbox addthis_32x32_style addthis_default_style'&gt;
+&lt;li&gt;&lt;a addthis:userid='cafeterialagrullaazul' class='addthis_button_facebook_follow'/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a addthis:userid='cafeterialagrullaazul' class='addthis_button_instagram_follow'/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a addthis:userid='u/1/b/107384351361561463633/+LagrullaazulquitoBlogspot14' class='addthis_button_google_follow'/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-509cdd347d33a1d2' type='text/javascript'/&gt;
+&lt;!-- AddThis Follow END --&gt;
+
+
+&lt;p&gt;&lt;a expr:href='data:blog.homepageUrl'&gt;&lt;data:blog.title/&gt;&lt;/a&gt; Template by Ipietoon &lt;a href='http://www.ipietoon.com/' target='_blank'&gt;Cute Blog Design&lt;/a&gt; and &lt;a href='http://www.bukit-gambang.blogspot.com'&gt;Waterpark Gambang&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/template/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/template/default'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_PUBLISHING_MODE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Tipo de publicación hecha para este blog</title><content type='text'>PUBLISH_MODE_BLOGSPOT</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_PUBLISHING_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_PUBLISHING_MODE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_ADMIN_PERMISSION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Lista de correos electrónicos de los administradores del blog</title><content type='text'>vickyamaguana@gmail.com,grullaazulcafe@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ADMIN_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ADMIN_PERMISSION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_ADULT_CONTENT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si este blog incluye contenido para adultos.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ADULT_CONTENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ADULT_CONTENT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_ANALYTICS_ACCOUNT_NUMBER</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Número de Cuenta de Google Analytics</title><content type='text'>G-PNLVM54XV6</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_ARCHIVE_DATE_FORMAT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El número del formato de fecha del índice de archivos</title><content type='text'>9</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ARCHIVE_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ARCHIVE_DATE_FORMAT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_ARCHIVE_FREQUENCY</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Con qué frecuencia debería archivarse el blog.</title><content type='text'>MONTHLY</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ARCHIVE_FREQUENCY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_ARCHIVE_FREQUENCY'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_AUTHOR_PERMISSION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>La lista de correos electrónicos de los autores que tienen permiso para publicar.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_AUTHOR_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_AUTHOR_PERMISSION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_BY_POST_ARCHIVING</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se ofrece una página de archivo para cada entrada.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_BY_POST_ARCHIVING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_BY_POST_ARCHIVING'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_ACCESS</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Quiénes pueden comentar</title><content type='text'>BLOGGERS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_ACCESS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_ACCESS'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_CAPTCHA</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si requerir que las personas que hacen comentarios completen un captcha.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_CAPTCHA'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_CAPTCHA'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_EMAIL</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Lista de direcciones de correo electrónico para enviar notificaciones de nuevos comentarios a </title><content type='text'>vickyamaguana@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_EMAIL'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_FEED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El tipo de feed que se ofrece para los comentarios del blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_FEED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_FORM_LOCATION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Ubicación del formulario de comentarios del blog</title><content type='text'>EMBEDDED_IFRAME</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_FORM_LOCATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_FORM_LOCATION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_MESSAGE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Mensaje de comentario de blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MESSAGE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MESSAGE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_MODERATION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se habilita la moderación de comentarios.</title><content type='text'>DISABLED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_MODERATION_DELAY</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Número de días tras los que los nuevos comentarios se someten a moderación</title><content type='text'>14</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION_DELAY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION_DELAY'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_MODERATION_EMAIL</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Dirección de correo electrónico para notificaciones de nuevos comentarios que necesiten moderación</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_MODERATION_EMAIL'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENT_PROFILE_IMAGES</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se muestran las imágenes de perfil en los comentarios.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_PROFILE_IMAGES'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENT_PROFILE_IMAGES'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENTS_ALLOWED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se muestran los comentarios</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENTS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENTS_ALLOWED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_COMMENTS_TIME_STAMP_FORMAT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Número de formato de la fecha de los comentarios</title><content type='text'>22</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_CUSTOM_ADS_TXT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El contenido ads.txt personalizado del blog publicado en los motores de búsqueda para anuncios.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ADS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ADS_TXT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_CUSTOM_ADS_TXT_ENABLED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Establece si este blog publica contenido ads.txt personalizado en los motores de búsqueda para anuncios.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_CUSTOM_PAGE_NOT_FOUND</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El mensaje que se muestra cuando no se encuentra la página o la publicación solicitada.</title><content type='text'>Pedimos disculpas por encontrar esta página. La misma esta en mantenimiento o fue eliminada. Te pedimos regreses a la página principal de nuestro blog.
+
+lagrullaazulquito.blogspot.com
+
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_CUSTOM_ROBOTS_TXT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El contenido robots.txt personalizado del blog que se sirve a los motores de búsqueda</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ROBOTS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ROBOTS_TXT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_CUSTOM_ROBOTS_TXT_ENABLED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si este blog sirve contenido robots.txt personalizado a los motores de búsqueda.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_DATE_FORMAT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El número del formato del encabezado de fecha</title><content type='text'>26</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DATE_FORMAT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_DEFAULT_COMMENTS_MODE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Modo de comentario predeterminado para entradas</title><content type='text'>DEFAULT_HAVE_COMMENTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DEFAULT_COMMENTS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DEFAULT_COMMENTS_MODE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_DESCRIPTION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Agrega una descripción del blog</title><content type='text'>Cafetería La Grulla Azul es una de las mejores cafeterías de eventos de anime en Quito - Ecuador. Gastronomía japonesa de tus animes favoritos y comida típica e Japón. Aceptamos pedidos para cumpleaños, regalos especiales y eventos por vía e-mail o mediante nuestras redes sociales o formulario de nuestro blog.</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_DESCRIPTION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_EMAIL_POST_LINKS</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se muestra un vínculo para que los usuarios envíen entradas por correo electrónico.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_EMAIL_POST_LINKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_EMAIL_POST_LINKS'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_FEED_REDIRECT_URL</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>URL para redireccionar las solicitudes de feed de entrada a</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_FEED_REDIRECT_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_FEED_REDIRECT_URL'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_FLOAT_ALIGNMENT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si la alineación flotante está habilitada en el blog</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_FLOAT_ALIGNMENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_FLOAT_ALIGNMENT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_LOCALE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Idioma de este blog</title><content type='text'>es_419</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_LOCALE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_LOCALE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_MAIL_PUBLISH</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si las entradas de Mail-to-Blogger deberían publicarse de forma inmediata.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAIL_PUBLISH'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAIL_PUBLISH'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_MAIL_TO_BLOGGER</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El secreto del cual se deriva la dirección de correo electrónico de Mail-to-Blogger.</title><content type='text'>lagrullaazul</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAIL_TO_BLOGGER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAIL_TO_BLOGGER'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_MAX_NUM</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Número máximo de objetos que se mostrarán en la página principal”</title><content type='text'>7</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAX_NUM'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAX_NUM'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_MAX_UNIT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Unidad de objetos que se mostrarán en la página principal</title><content type='text'>POSTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAX_UNIT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_MAX_UNIT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_META_DESCRIPTION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Se ha proporcionado la descripción de meta del blog a los motores de búsqueda.</title><content type='text'>Cafetería La Grulla Azul es una de las mejores cafeterías de eventos de anime en Quito - Ecuador</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_META_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_META_DESCRIPTION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_META_DESCRIPTION_ENABLED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Determina si se pueden incluir descripciones de meta en este blog.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_META_DESCRIPTION_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_META_DESCRIPTION_ENABLED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_NAME</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El nombre del blog</title><content type='text'>La Grulla Azul Café - Quito, Ecuador</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_NAME'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_NAME'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_PER_POST_FEED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El tipo de feed que se ofrece para los comentarios por entrada</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_PER_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_PER_POST_FEED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_POST_FEED</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El tipo de feed que se ofrece para las entradas del blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_FEED'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_POST_FEED_FOOTER</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Pie de página para agregar al final de cada entrada en el feed de entrada </title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_FEED_FOOTER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_FEED_FOOTER'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_POST_TEMPLATE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>La plantilla para entradas de blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_TEMPLATE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_POST_TEMPLATE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_QUICK_EDITING</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si la Edición rápida está habilitada.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_QUICK_EDITING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_QUICK_EDITING'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_READ_ACCESS_MODE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El tipo de acceso para los lectores del blog.</title><content type='text'>PUBLIC</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_READ_ACCESS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_READ_ACCESS_MODE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_READER_PERMISSION</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>La lista de correos electrónicos para los usuarios que tienen permiso para leer el blog.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_READER_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_READER_PERMISSION'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_SEARCHABLE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si este blog podrá indexarse en los motores de búsqueda.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SEARCHABLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SEARCHABLE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_SEND_EMAIL</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Lista de correos electrónicos separados por comas para enviar nuevas entradas de blog a</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SEND_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SEND_EMAIL'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_SHOW_URL</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si se muestra un cuadro de vínculos relacionados en la composición de entradas.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SHOW_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SHOW_URL'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_SUBDOMAIN</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El subdominio BlogSpot bajo el cual publicas tu blog</title><content type='text'>lagrullaazulcafe</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SUBDOMAIN'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_SUBDOMAIN'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_TIME_STAMP_FORMAT</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>El número del formato de fecha</title><content type='text'>27</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_TIME_STAMP_FORMAT'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_TIME_ZONE</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>La zona horaria de este blog</title><content type='text'>America/Guayaquil</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_TIME_ZONE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_TIME_ZONE'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.settings.BLOG_USE_LIGHTBOX</id><published>2015-05-07T13:37:14.145-05:00</published><updated>2024-11-01T05:39:51.881-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Si deseas que las imágenes se muestren en Lightbox al hacer clic en ellas.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_USE_LIGHTBOX'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/settings/BLOG_USE_LIGHTBOX'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.post-6905413354379793406</id><published>2015-05-07T15:14:00.001-05:00</published><updated>2020-09-11T01:37:20.832-05:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='gastronomía japonesa'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><category scheme='http://www.blogger.com/atom/ns#' term='takoyaki'/><category scheme='http://www.blogger.com/atom/ns#' term='cafetería la grulla azul'/><category scheme='http://www.blogger.com/atom/ns#' term='la grulla box'/><category scheme='http://www.blogger.com/atom/ns#' term='la grulla azul cafe'/><category scheme='http://www.blogger.com/atom/ns#' term='dango'/><category scheme='http://www.blogger.com/atom/ns#' term='dorayaki'/><category scheme='http://www.blogger.com/atom/ns#' term='okonomiyaki'/><title type='text'></title><content type='html'>&lt;div style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;
+&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;h2 style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; text-align: center; vertical-align: baseline;"&gt;
+&lt;strong style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;&lt;span style="font-size: x-large;"&gt;PLATOS DE LA GASTRONOMÍA&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; text-align: center; vertical-align: baseline;"&gt;
+&lt;strong style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;&lt;span style="font-size: x-large;"&gt;JAPONESA&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;div style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;
+&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;Japón&lt;/strong&gt;&amp;nbsp;es uno de los&amp;nbsp;&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;destinos gastronómicos más famosos del mundo&lt;/strong&gt;&amp;nbsp;y además está cada vez más de moda en occidente desde hace unos años para acá.&amp;nbsp;&lt;/div&gt;
+&lt;div style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;
+Los platos se pronuncian en español igual que se escriben en japonés salvo en los casos en los que lo aclare expresamente.&amp;nbsp; Como vocabulario básico llega con 3 palabras:&amp;nbsp;&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;oishii&lt;/strong&gt;&amp;nbsp;(¡está rico!),&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;itadakimasu&lt;/strong&gt;&amp;nbsp;(que aproveche) y&amp;nbsp;&lt;strong style="border: 0px; box-sizing: border-box; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;campai&lt;/strong&gt;&amp;nbsp;(lo que se dice al brindar).&amp;nbsp;&lt;/div&gt;
+&lt;div style="background-color: white; border: 0px; box-sizing: border-box; color: #666666; font-family: 'Noto Sans', sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 1.5em; outline: 0px; padding: 0px; vertical-align: baseline;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJF1wppysL7EZDNcPZ4u_7R6UonBtv9rmwQojpI6nyRRsx2GfHJAlo3fE0SXfFwdhfWCrgq3kBI1wN0g4bMOllWJ-JpUcbVKVpCobUBzLiilcHsHmFotAAF0siwviVkU1soWcHIKG68NgC/s1600/takoyaki.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"&gt;&lt;img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJF1wppysL7EZDNcPZ4u_7R6UonBtv9rmwQojpI6nyRRsx2GfHJAlo3fE0SXfFwdhfWCrgq3kBI1wN0g4bMOllWJ-JpUcbVKVpCobUBzLiilcHsHmFotAAF0siwviVkU1soWcHIKG68NgC/s200/takoyaki.jpg" width="177" /&gt;&lt;/a&gt;&lt;span style="color: #252525; font-family: sans-serif; line-height: 22.3999996185303px;"&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;El&amp;nbsp;&lt;/span&gt;&lt;b style="line-height: 22.3999996185303px;"&gt;Takoyaki&lt;/b&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;(たこ焼き o 蛸焼) es una comida japonesa hecha básicamente de&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Harina" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Harina"&gt;harina&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;de&amp;nbsp;&lt;/span&gt;&lt;a class="mw-redirect" href="http://es.wikipedia.org/wiki/Trigo" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Trigo"&gt;trigo&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;y unos trozos de pulpo. Se hace en forma de una bola (del tamaño de la de Ping Pong). Sus ingredientes son: masa de harina de trigo con agua, trozos de pulpo, jengibre&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Encurtido" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Encurtido"&gt;encurtido&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;troceado, alga (ao-nori), etc. Se asan en un tipo de plancha de hierro con huecos en forma semicircular, y se sirven con salsa tipo worcester. También se puede usar cuscurrús. Es típico de la región de&amp;nbsp;&lt;/span&gt;&lt;a class="mw-redirect" href="http://es.wikipedia.org/wiki/Kansai" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Kansai"&gt;Kansai&lt;/a&gt;&lt;span style="color: #666666; font-family: &amp;quot;noto sans&amp;quot; , sans-serif; line-height: 22.3999996185303px;"&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;div class="separator" style="clear: both; text-align: center;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1KPTQM_hI9QymNPI1Ef2lLd7JRMXRPWYHCSf1f7SJisI60ZbYwNCltYfRQG7vLHwxo-pOM9toCSZl0T3WdrMLQZ5irU0HF7tdA4TMVLTJtG0Tq2W-0ha959uDE0yud2UkPfhAcWwwrtg/s1600/dango.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1KPTQM_hI9QymNPI1Ef2lLd7JRMXRPWYHCSf1f7SJisI60ZbYwNCltYfRQG7vLHwxo-pOM9toCSZl0T3WdrMLQZ5irU0HF7tdA4TMVLTJtG0Tq2W-0ha959uDE0yud2UkPfhAcWwwrtg/s320/dango.jpg" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;El&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;&lt;b&gt;dango&lt;/b&gt;&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;es un&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;&lt;a href="http://es.wikipedia.org/wiki/Dumpling" style="background: none; color: #0b0080; text-decoration: none;" title="Dumpling"&gt;dumpling&lt;/a&gt;&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Jap%C3%B3n" style="background: none; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Gastronomía de Japón"&gt;japonés&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;elaborado con&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;mochiko&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Harina_de_arroz" style="background: none; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Harina de arroz"&gt;harina de arroz&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;), y relacionado por tanto con el&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;&lt;a href="http://es.wikipedia.org/wiki/Mochi" style="background: none; color: #0b0080; text-decoration: none;" title="Mochi"&gt;mochi&lt;/a&gt;&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(pastel de&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Arroz_glutinoso" style="background: none; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Arroz glutinoso"&gt;arroz glutinoso&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;). Se sirve a menudo con&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/T%C3%A9_verde" style="background: none; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Té verde"&gt;té verde&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;.&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;El&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;dango&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;se consume todo el año, pero las diversas variedades se comen tradicionalmente en temporadas concretas. Tres o cuatro&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;dango&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;se sirven a menudo en un&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Pincho_(utensilio)" style="background: none; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Pincho (utensilio)"&gt;pincho&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw8boLJBVT1vtBgMK_wcbYPaUSjKbQBy2Vb5vh7MOCUxxY2Ty21IRxqMpT9OkVV3SRgozRI_kZCd61LdteBfKTTLP7R9dlJh535oJtS7nMI5jd4sw0MZWDtbfuHk2AX6hj40XYQdmcS4yl/s1600/okonomiyaki.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"&gt;&lt;img border="0" height="215" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw8boLJBVT1vtBgMK_wcbYPaUSjKbQBy2Vb5vh7MOCUxxY2Ty21IRxqMpT9OkVV3SRgozRI_kZCd61LdteBfKTTLP7R9dlJh535oJtS7nMI5jd4sw0MZWDtbfuHk2AX6hj40XYQdmcS4yl/s320/okonomiyaki.jpg" width="320" /&gt;&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;El&amp;nbsp;&lt;/span&gt;&lt;b style="line-height: 22.3999996185303px;"&gt;Okonomiyaki&lt;/b&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(&lt;span class="t_nihongo_kanji" lang="ja" xml:lang="ja"&gt;お好み焼き&lt;/span&gt;)&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;es una comida&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Jap%C3%B3n" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Japón"&gt;japonesa&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;que consiste en una masa con varios ingredientes cocinados a la plancha. La palabra okonomiyaki está formada por el honorífico&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;o&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(&lt;span class="t_nihongo_kanji" lang="ja" xml:lang="ja"&gt;お&lt;/span&gt;&lt;span class="t_nihongo_help"&gt;&lt;sup style="line-height: 1em;"&gt;&lt;a href="http://es.wikipedia.org/wiki/Ayuda:Idioma_japon%C3%A9s" style="background: none; color: #0b0080; text-decoration: none;" title="Ayuda:Idioma japonés"&gt;&lt;span class="t_nihongo_icon" style="color: darkblue; font-size: 9.33333396911621px; font-stretch: normal; font-weight: bold; line-height: normal; padding: 0px 0.1em;"&gt;?&lt;/span&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;)&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;,&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;konomi&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(&lt;span class="t_nihongo_kanji" lang="ja" xml:lang="ja"&gt;好み&lt;/span&gt;&amp;nbsp;&lt;span class="t_nihongo_romaji"&gt;&lt;i&gt;gusto&lt;/i&gt;&lt;/span&gt;&lt;span class="t_nihongo_help"&gt;&lt;sup style="line-height: 1em;"&gt;&lt;a href="http://es.wikipedia.org/wiki/Ayuda:Idioma_japon%C3%A9s" style="background: none; color: #0b0080; text-decoration: none;" title="Ayuda:Idioma japonés"&gt;&lt;span class="t_nihongo_icon" style="color: darkblue; font-size: 9.33333396911621px; font-stretch: normal; font-weight: bold; line-height: normal; padding: 0px 0.1em;"&gt;?&lt;/span&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;)&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;y&amp;nbsp;&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;yaki&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;(&lt;span class="t_nihongo_kanji" lang="ja" xml:lang="ja"&gt;焼き&lt;/span&gt;&amp;nbsp;&lt;span class="t_nihongo_romaji"&gt;&lt;i&gt;cocinado a la plancha&lt;/i&gt;&lt;/span&gt;&lt;span class="t_nihongo_help"&gt;&lt;sup style="line-height: 1em;"&gt;&lt;a href="http://es.wikipedia.org/wiki/Ayuda:Idioma_japon%C3%A9s" style="background: none; color: #0b0080; text-decoration: none;" title="Ayuda:Idioma japonés"&gt;&lt;span class="t_nihongo_icon" style="color: darkblue; font-size: 9.33333396911621px; font-stretch: normal; font-weight: bold; line-height: normal; padding: 0px 0.1em;"&gt;?&lt;/span&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;)&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;, significando "cocinado (a la plancha) a su gusto" (en referencia al cliente, o puede ser también (alimento) huevo y repollo en juliana, junto con otros ingredientes dependiendo del tipo de referencia al cocinero).&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em; text-align: justify;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcfGmkKuL4xK9XlZurca-TWTVYe3O2eA-5jz1kfXGuG6DgTllZLsiXkyX7ENgyzDK_kuAliRzh9NGl-Wz3uaoFyIloJx0JFKV1V1X-nvNQueCf7od3KsCVFcxiigM6O0SAVBzCAUOgKxet/s1600/dorayaki.jpg" imageanchor="1" style="background-color: transparent; clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"&gt;&lt;img border="0" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcfGmkKuL4xK9XlZurca-TWTVYe3O2eA-5jz1kfXGuG6DgTllZLsiXkyX7ENgyzDK_kuAliRzh9NGl-Wz3uaoFyIloJx0JFKV1V1X-nvNQueCf7od3KsCVFcxiigM6O0SAVBzCAUOgKxet/s320/dorayaki.jpg" width="320" /&gt;&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;El&amp;nbsp;&lt;/span&gt;&lt;b style="line-height: 22.3999996185303px;"&gt;dorayaki&lt;/b&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;es un tipo de dulce&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Jap%C3%B3n" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Japón"&gt;japonés&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;que consiste en dos bizcochos de forma redonda (este tipo de pan se denomina&amp;nbsp;&lt;/span&gt;&lt;a class="mw-redirect" href="http://es.wikipedia.org/wiki/Kasutera" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Kasutera"&gt;kasutera&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;) relleno de&amp;nbsp;&lt;/span&gt;&lt;a href="http://es.wikipedia.org/wiki/Anko" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Anko"&gt;anko&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;(una especie de judía dulce).&lt;/span&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;Una leyenda japonesa cuenta que el primer dorayaki se hizo cuando un&amp;nbsp;&lt;/span&gt;&lt;a class="mw-redirect" href="http://es.wikipedia.org/wiki/Samurai" style="background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0b0080; line-height: 22.3999996185303px; text-decoration: none;" title="Samurai"&gt;samurai&lt;/a&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;&amp;nbsp;llamado Benkei se olvidó de su gong (&lt;/span&gt;&lt;i style="line-height: 22.3999996185303px;"&gt;dora&lt;/i&gt;&lt;span style="line-height: 22.3999996185303px;"&gt;) después de abandonar la casa de un campesino donde se escondía y el campesino posteriormente usó el gong para freir los buñuelos, de ahí el nombre Dorayaki.&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;Continuará...&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;FUENTES:&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+&lt;span style="line-height: 22.3999996185303px;"&gt;- wikipedia&lt;/span&gt;&lt;/div&gt;
+&lt;div style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; margin-bottom: 0.5em; margin-top: 0.5em;"&gt;
+- Fotos: Cafeteria La Grulla Azúl&lt;/div&gt;
+</content><link rel='replies' type='application/atom+xml' href='https://lagrullaazulcafe.blogspot.com/feeds/6905413354379793406/comments/default' title='Comentarios de la entrada'/><link rel='replies' type='text/html' href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html#comment-form' title='4 Comentarios'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406'/><link rel='alternate' type='text/html' href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html' title=''/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJF1wppysL7EZDNcPZ4u_7R6UonBtv9rmwQojpI6nyRRsx2GfHJAlo3fE0SXfFwdhfWCrgq3kBI1wN0g4bMOllWJ-JpUcbVKVpCobUBzLiilcHsHmFotAAF0siwviVkU1soWcHIKG68NgC/s72-c/takoyaki.jpg' height='72' width='72'/><thr:total>4</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.page-1789610876199422176</id><published>2024-05-14T09:57:00.000-05:00</published><updated>2024-05-14T09:57:25.720-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Contacto</title><content type='html'>&lt;!-- www.123contactform.com script begins here --&gt;
+&lt;script data-role="form" defer="" src="//www.123contactform.com/embed/2317140.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;br /&gt;
+Powered by &lt;a class="footerLink13" href="http://www.123contactform.com/" title="123ContactForm"&gt;123ContactForm&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href="http://www.123contactform.com/sfnew.php?s=123contactform-52&amp;amp;control119314=http:///contact-form--2317140.html&amp;amp;control190=Report%20abuse" rel="nofollow" style="color: black; font-size: small; text-decoration: underline;" title="¿Parece phishing? ¡Repórtalo!"&gt;Reportar abuso&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class="separator" style="clear: both; text-align: center;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjev880XBNkZyjedTxUqJOKos8M64yDMDx-neOErlLv2nBCExYln07U6BXh1fuijPu3CW7RsKempNxrvb1SYbwe8yt2M7LpMKGA2KOO8GcSuexc11Fr5kWAMqgzSsgSu4JRxpVI2up2ocGi/s1600/onigiri_kawaii.gif" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="155" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjev880XBNkZyjedTxUqJOKos8M64yDMDx-neOErlLv2nBCExYln07U6BXh1fuijPu3CW7RsKempNxrvb1SYbwe8yt2M7LpMKGA2KOO8GcSuexc11Fr5kWAMqgzSsgSu4JRxpVI2up2ocGi/s200/onigiri_kawaii.gif" width="200" /&gt;&lt;/a&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjev880XBNkZyjedTxUqJOKos8M64yDMDx-neOErlLv2nBCExYln07U6BXh1fuijPu3CW7RsKempNxrvb1SYbwe8yt2M7LpMKGA2KOO8GcSuexc11Fr5kWAMqgzSsgSu4JRxpVI2up2ocGi/s1600/onigiri_kawaii.gif" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Estamos a las ordenes de inquietudes, pedidos.&lt;br /&gt;
+&lt;!-- www.123contactform.com script ends here --&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/1789610876199422176'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/1789610876199422176'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/p/contacto_18.html' title='Contacto'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjev880XBNkZyjedTxUqJOKos8M64yDMDx-neOErlLv2nBCExYln07U6BXh1fuijPu3CW7RsKempNxrvb1SYbwe8yt2M7LpMKGA2KOO8GcSuexc11Fr5kWAMqgzSsgSu4JRxpVI2up2ocGi/s72-c/onigiri_kawaii.gif' height='72' width='72'/></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.page-6833911410781846174</id><published>2016-11-18T13:08:00.003-05:00</published><updated>2023-01-24T12:36:21.847-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Instagram</title><content type='html'>&lt;div style="text-align: center;"&gt;Link:&amp;nbsp;https://www.instagram.com/lagrullaazulcafe/&lt;/div&gt;&lt;!--SnapWidget--&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CnLM2FbrVYB/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="14" style="background: rgb(255, 255, 255); border-radius: 3px; border: 0px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 1px 0px, rgba(0, 0, 0, 0.15) 0px 1px 10px 0px; margin: 1px; max-width: 540px; min-width: 326px; padding: 0px; width: calc(100% - 2px);"&gt;&lt;div style="padding: 16px;"&gt; &lt;a href="https://www.instagram.com/p/CnLM2FbrVYB/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style="background: rgb(255, 255, 255); line-height: 0; padding: 0px; text-align: center; text-decoration: none; width: 100%;" target="_blank"&gt; &lt;div style="align-items: center; display: flex; flex-direction: row;"&gt; &lt;div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0px;"&gt;&lt;/div&gt; &lt;div style="display: block; height: 50px; margin: 0px auto 12px; width: 50px;"&gt;&lt;svg height="50px" version="1.1" viewbox="0 0 60 60" width="50px" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg"&gt;&lt;g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"&gt;&lt;g fill="#000000" transform="translate(-511.000000, -20.000000)"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style="color: #3897f0; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;"&gt;Ver esta publicación en Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0px;"&gt;&lt;/div&gt; &lt;div style="align-items: center; display: flex; flex-direction: row; margin-bottom: 14px;"&gt;&lt;div&gt; &lt;div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; transform: translateX(0px) translateY(7px); width: 12.5px;"&gt;&lt;/div&gt; &lt;div style="background-color: #f4f4f4; flex-grow: 0; height: 12.5px; margin-left: 2px; margin-right: 14px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px;"&gt;&lt;/div&gt; &lt;div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; transform: translateX(9px) translateY(-18px); width: 12.5px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style="border-bottom: 2px solid transparent; border-left: 6px solid rgb(244, 244, 244); border-top: 2px solid transparent; height: 0px; transform: translateX(16px) translateY(-4px) rotate(30deg); width: 0px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style="border-right: 8px solid transparent; border-top: 8px solid rgb(244, 244, 244); transform: translateY(16px); width: 0px;"&gt;&lt;/div&gt; &lt;div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; transform: translateY(-4px); width: 16px;"&gt;&lt;/div&gt; &lt;div style="border-left: 8px solid transparent; border-top: 8px solid rgb(244, 244, 244); height: 0px; transform: translateY(-4px) translateX(8px); width: 0px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style="color: #c9c8cd; font-family: Arial, sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0px; margin-top: 8px; overflow: hidden; padding: 8px 0px 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"&gt;&lt;a href="https://www.instagram.com/p/CnLM2FbrVYB/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style="color: #c9c8cd; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" target="_blank"&gt;Una publicación compartida por Cafetería La Grulla Azul (@lagrullaazulcafe)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/6833911410781846174'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/6833911410781846174'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/p/instagram.html' title='Instagram'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.page-5157557283449438474</id><published>2016-11-18T13:11:00.002-05:00</published><updated>2016-11-18T13:11:17.977-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Inicio</title><content type='html'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/5157557283449438474'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/pages/default/5157557283449438474'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/p/inicio.html' title='Inicio'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.post-3590483668043246508</id><published>2015-09-30T20:16:52.981-05:00</published><updated>2015-09-30T20:16:52.981-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#comment'/><title type='text'>¿Sabes dónde comprar Anko en Quito?</title><content type='html'>¿Sabes dónde comprar Anko en Quito?</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3590483668043246508'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3590483668043246508'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html?showComment=1443662212981#c3590483668043246508' title=''/><author><name>Clector</name><uri>https://www.blogger.com/profile/08036424843451134870</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinxAlGM07XqZWwZnZlmw9R4cdiY6Y-DzE-MKntmN-J5Fxzh4vbwZJAUYhhfJvSJHXVEhTfE6JtfYNsIOLbv2PgTpPY9drHD_N0skVTU1RLA2twVCEIg7FprKRWZbK5MA/s220/Kirby+-+WarpStar+141.png'/></author><thr:in-reply-to href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html' ref='tag:blogger.com,1999:blog-1751282069357400475.post-6905413354379793406' source='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406' type='text/html'/><gd:extendedProperty name='blogger.itemClass' value='pid-310694738'/><gd:extendedProperty name='blogger.displayTime' value='9/30/2015 8:16 p.m.'/></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.post-448175512718872705</id><published>2016-11-18T07:30:48.439-05:00</published><updated>2016-11-18T07:30:48.439-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#comment'/><title type='text'>Estimado Cletor, disculpa la respuesta tardía. Ank...</title><content type='html'>Estimado Cletor, disculpa la respuesta tardía. Anko no encuentras en Quito, sin embargo lo puedes hacer usando frejol negro con olla de presión. Saludos.</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/448175512718872705'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/448175512718872705'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html?showComment=1479472248439#c448175512718872705' title=''/><link rel='related' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3590483668043246508'/><author><name>vkvane</name><uri>https://www.blogger.com/profile/04482309614541653324</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:in-reply-to href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html' ref='tag:blogger.com,1999:blog-1751282069357400475.post-6905413354379793406' source='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406' type='text/html'/><gd:extendedProperty name='blogger.itemClass' value='pid-495620670'/><gd:extendedProperty name='blogger.displayTime' value='11/18/2016 7:30 a.m.'/></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.post-220412231435763725</id><published>2017-04-27T12:07:16.923-05:00</published><updated>2017-04-27T12:07:16.923-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#comment'/><title type='text'>Buanas tardes, sabes donde puedo encontrr harina d...</title><content type='html'>Buanas tardes, sabes donde puedo encontrr harina de mochi en quito?&lt;br /&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/220412231435763725'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/220412231435763725'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html?showComment=1493312836923#c220412231435763725' title=''/><link rel='related' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3590483668043246508'/><author><name>Unknown</name><uri>https://www.blogger.com/profile/02799943388911614298</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:in-reply-to href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html' ref='tag:blogger.com,1999:blog-1751282069357400475.post-6905413354379793406' source='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406' type='text/html'/><gd:extendedProperty name='blogger.itemClass' value='pid-1152405439'/><gd:extendedProperty name='blogger.displayTime' value='4/27/2017 12:07 p.m.'/></entry><entry><id>tag:blogger.com,1999:blog-1751282069357400475.post-3854272944101748290</id><published>2018-04-02T16:29:28.106-05:00</published><updated>2018-04-02T16:29:28.106-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#comment'/><title type='text'>DOnde se puede conseguir harina de arroz glutinoso...</title><content type='html'>DOnde se puede conseguir harina de arroz glutinoso en quito ecuador? gracias</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3854272944101748290'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1751282069357400475/6905413354379793406/comments/default/3854272944101748290'/><link rel='alternate' type='text/html' href='http://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html?showComment=1522704568106#c3854272944101748290' title=''/><author><name>Unknown</name><uri>https://www.blogger.com/profile/11941394219210888685</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:in-reply-to href='https://lagrullaazulcafe.blogspot.com/2015/05/platos-de-la-gastronomia-japonesa-japon.html' ref='tag:blogger.com,1999:blog-1751282069357400475.post-6905413354379793406' source='https://www.blogger.com/feeds/1751282069357400475/posts/default/6905413354379793406' type='text/html'/><gd:extendedProperty name='blogger.itemClass' value='pid-806678085'/><gd:extendedProperty name='blogger.displayTime' value='4/02/2018 4:29 p.m.'/></entry></feed>
